@@ -1,9 +1,5 @@
 # Digital divide Research
-
-![]({{site.baseurl}}/https://github.com/BrandonSAIC/documentation-of-practice/blob/master/research-methods/divide.jpg)
-
-
-
+![]({{site.baseurl}}/research-methods/divide.jpg)
 - Date: April 16, 2020
 - Description: This is a Screen shot of all of the articles that were important to my research.
 
