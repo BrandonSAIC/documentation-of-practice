@@ -1,6 +1,6 @@
 # Digital divide Research
 
-![divide.png]({{site.baseurl}}/research-methods/divide.png)
+![]({{site.baseurl}}/https://github.com/BrandonSAIC/documentation-of-practice/blob/master/research-methods/divide.jpg)
 
 
 
