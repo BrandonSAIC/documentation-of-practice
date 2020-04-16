@@ -1,5 +1,5 @@
 # Digital divide Research
-![]({{site.baseurl}}/research-methods/divide.jpg)
+![]({{site.baseurl}}/https://flickr.com/photos/170563978@N08/49781414301/)
 - Date: April 16, 2020
 - Description: This is a Screen shot of all of the articles that were important to my research.
 
