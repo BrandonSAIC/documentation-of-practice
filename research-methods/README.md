@@ -1,13 +1,8 @@
-# Emoji Research
+# Digital divide Research
 
-![Research](research.jpeg)
+![]({{site.baseurl}}/https://www.flickr.com/photos/170563978@N08/49781414301/in/datetaken-public/)
 
-- Date: March 3, 2020
-- Description: Going through materials at the International Emoji Archives
+- Date: April 16, 2020
+- Description: This is a Screen shot of all of the articles that were important to my research.
 
-![Research](research-desktop.png)
-
-- Date: April 5, 2020
-- Description: Screen shot of my research the online Internet Archive and textfiles archive.
-
-The first image is taken from my trip to the Internet Archive, it depicts Brewster Kahle, the founder and director of the archive, explaining to the tour group how often the servers (shown on the right) are requested from on a daily basis. My visit to the archive allowed me to interview Internet historians like Jason Scott to get their first hand accounts of how emoticons, the focus of my research, where used in the earliest days of the Internet. The second image is a screen shot of my online research. On the left is Jason Scott's online text-files archive, which includes a large collection of early ASCII art (images created from text characters) which directly inspired my notion to create portraits from emojis. On the right is one of the many research papers i read on how emoji's are used in various online platforms as a means of self expression. 
+Image 1 is a collection of important excerpts from the articles that I came across. Image 2 is a picutre of virgina eubanks giving a lecture about her book _Voices from the Digital Doorhouse_. The book is about data collection and how the use of that data in certain algorithms can hurt minority communities. Image 3 is about how google's search enginge reinforced negative representations of black women. Image 4 is how the speech of black people on twitter was labled as hate speech by twitter's algorithm. Image 5 is about how are how personal data collected and used.
