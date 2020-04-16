@@ -3,6 +3,7 @@
 ![divide.png]({{site.baseurl}}/research-methods/divide.png)
 
 
+
 - Date: April 16, 2020
 - Description: This is a Screen shot of all of the articles that were important to my research.
 
