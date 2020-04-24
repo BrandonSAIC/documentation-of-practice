@@ -1,5 +1,5 @@
 # Big Data Portraits, work in progress
-![in-process-work](phone 1.png)
+![]({{site.baseurl}}/phone 1.png)
 
 - Date: April 24, 2020
 - Medium: Digital Image made with Adobe Photoshop 
