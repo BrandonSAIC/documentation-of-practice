@@ -1,5 +1,5 @@
 # Big Data Portraits, work in progress
-![]({{site.baseurl}}/phone 1.png)
+![]({{site.baseurl}}/https://github.com/BrandonSAIC/documentation-of-practice/blob/master/in-process-work/phone%201.png?raw=true)
 
 - Date: April 24, 2020
 - Medium: Digital Image made with Adobe Photoshop 
